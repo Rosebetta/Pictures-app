@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="danay">Даная — Рембрандт</string>
+    <string name="devushka_s">Девушка с жемчужной серёжкой – Ян Вермеер</string>
+    <string name="frida_kalo">Автопортрет в терновом ожерелье с колибри - Фрида Кало</string>
+    <string name="klimt_pocelui">Поцелуй – Густав Климт</string>
+    <string name="menini">Менины – Диего Веласкес</string>
+    <string name="posledni_den">Последний день Помпеи – Карл Павлович Брюллов</string>
+    <string name="rogdenie_veneri">Рождение Венеры – Сандро Боттичелли</string>
+    <string name="sikstinskay_madonna">Сикстинская Мадонна – Рафаэль Санти</string>
+    <string name="sotvorenie_adama">Сотворение Адама – Микеланджело</string>
+    <string name="vlublennie">Влюблённые – Рене Магритт</string>
+    <string name="vsadnitsa">Всадница – Карл Павлович Брюллов</string>
+    <string name="zvezdnai_noch">Звёздная ночь – Винсент ван Гог</string>
+
+    <string name="favourite">Избранное</string>
+    <string name="search">Поиск</string>
+    <string name="save">Сохранить</string>
+    <string name="search_name">Поиск по имени художника</string>
+    <string name="search_style">Поиск по стилю</string>
+
+    <string name="Rembrandt">Рембрандт</string>
+    <string name="Vermeer">Ян Вермеер</string>
+    <string name="Kahlo">Фрида Кало</string>
+    <string name="Klimt">Густав Климт</string>
+    <string name="Velazquez">Диего Веласкес</string>
+    <string name="Bryullov">Карл Павлович Брюллов</string>
+    <string name="Botticelli">Сандро Боттичелли</string>
+    <string name="Santi">Рафаэль Сантиi</string>
+    <string name="Michelangelo">Микеланджело</string>
+    <string name="Magritte">Рене Магритт</string>
+    <string name="Gogh">Винсент ван Го</string>
+
+    <string name="renaissance">Ренессанс</string>
+    <string name="tronie">Трони</string>
+    <string name="primitivism">Примитивизм</string>
+    <string name="baroque">Борокко</string>
+    <string name="modern">Модерн</string>
+    <string name="realism">Реализм</string>
+    <string name="impressionism">Импрессионизм</string>
+    <string name="romanticism">Романтизм</string>
+    <string name="surrealism">Сюрреализм</string>
+    <string name="postImpressionism">Пост-импрессионизм</string>
+    <string name="academicism">Академизм</string>
+</resources>

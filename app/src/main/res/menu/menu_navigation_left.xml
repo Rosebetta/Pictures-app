@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+    <item android:title="@string/search_name">
+        <menu>
+            <item
+                android:id="@+id/rembrandt"
+                android:title="@string/Rembrandt"
+                android:icon="@drawable/ic_brush_painter"/>
+            <item
+                android:id="@+id/vermeer"
+                android:title="@string/Vermeer"
+                android:icon="@drawable/ic_brush_painter"/>
+            <item
+                android:id="@+id/kahlo"
+                android:title="@string/Kahlo"
+                android:icon="@drawable/ic_brush_painter"/>
+        </menu>
+    </item>
+    <item android:title="@string/search_style">
+        <menu>
+            <item
+                android:title="@string/baroque"
+                android:icon="@drawable/ic_brush_painter"/>
+            <item
+                android:title="@string/academicism"
+                android:icon="@drawable/ic_brush_painter"/>
+            <item
+                android:title="@string/romanticism"
+                android:icon="@drawable/ic_brush_painter"/>
+            <item
+                android:title="@string/impressionism"
+                android:icon="@drawable/ic_brush_painter"/>
+            <item
+                android:title="@string/realism"
+                android:icon="@drawable/ic_brush_painter"/>
+        </menu>
+    </item>
+
+</menu>

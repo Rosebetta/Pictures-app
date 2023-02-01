@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Pictures</string>
+
+    <string name="danay">Danae - by Remrandt</string>
+    <string name="devushka_s">Girl with a Pearl Earring, by Johannes Vermeer</string>
+    <string name="frida_kalo">Self Portrait with Necklace of Thorns, by Frida Kahlo</string>
+    <string name="klimt_pocelui">The Kiss, by Klimt</string>
+    <string name="menini">Las meninas, by Diego Velazquez</string>
+    <string name="posledni_den">The last day of pompeii, by Karl Bryullov</string>
+    <string name="rogdenie_veneri">The Birth of Venus, by Sandro Botticelli</string>
+    <string name="sikstinskay_madonna">Madonna Sykstyńskay, by Rafaela Santi</string>
+    <string name="sotvorenie_adama">The Creation of Adam by Michelangelo</string>
+    <string name="vlublennie">The Lovers II, by Rene Magritte </string>
+    <string name="vsadnitsa">A Rider, by Karl Bryullov</string>
+    <string name="zvezdnai_noch">The Starry Night, by Vincent van Gogh</string>
+
+    <string name="favourite">Favourite</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="search_name">Search by the name of painter</string>
+    <string name="search_style">Search by the style</string>
+
+    <string name="Rembrandt">Rembrandt</string>
+    <string name="Vermeer">Johannes Vermeer</string>
+    <string name="Kahlo">FridaKahlo</string>
+    <string name="Klimt">Klimt</string>
+    <string name="Velazquez">Diego Velazquez</string>
+    <string name="Bryullov">Karl Bryullov</string>
+    <string name="Botticelli">Sandro Botticelli</string>
+    <string name="Santi">Rafaela Santi</string>
+    <string name="Michelangelo">Michelangelo</string>
+    <string name="Magritte">Rene Magritte</string>
+    <string name="Gogh">Vincent van Gogh</string>
+
+    <string name="renaissance">Renaissance</string>
+    <string name="tronie">Tronie</string>
+    <string name="primitivism">Primitivism</string>
+    <string name="modern">Modern</string>
+    <string name="baroque">Baroque</string>
+    <string name="romanticism">Romanticism</string>
+    <string name="surrealism">Surrealism</string>
+    <string name="postImpressionism">Post-impressionism</string>
+    <string name="realism">Realism</string>
+    <string name="impressionism">Impressionism</string>
+
+
+    <string name="academicism">Academicism</string>
+</resources>
